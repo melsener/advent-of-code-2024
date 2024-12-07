@@ -10,6 +10,7 @@ func init() {
 }
 
 func SolveDay0(input string) string {
-	fmt.Printf("Hola hola!")
-	return "This is a test result"
+	result1 := 0
+	result2 := 0
+	return fmt.Sprintf("%d %d", result1, result2)
 }
