@@ -27,3 +27,4 @@ go.work.sum
 # input files
 inputs/*.txt
 .vscode
+.DS_Store
